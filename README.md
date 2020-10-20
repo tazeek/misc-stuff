@@ -1,3 +1,3 @@
 # Misc Stuff
 
-Repository for small-tasks that is not a project
+Repository for small-tasks that are not a project
